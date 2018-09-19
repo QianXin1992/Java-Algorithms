@@ -1,6 +1,6 @@
 # Java-Algorithms
 
-#（1）Hanoi Problem（汉诺塔问题）
+（1）Hanoi Problem（汉诺塔问题）
 
 （2）Fibonacci Sequence Problem（斐波那契数列问题）
 
